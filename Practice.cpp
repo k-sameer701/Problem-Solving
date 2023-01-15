@@ -1,27 +1,33 @@
-/*
-
-242. Valid Anagram
-https://leetcode.com/problems/valid-anagram/description/
-
-*/
-
-#include <bits/stdc++.h>
-using namespace std;
-
-bool isAnagram(string s, string t)
-{
-    sort(s.begin(), s.end());
-    sort(t.begin(), t.end());
-    if (s == t)
-        return true;
-
-    return false;
+class Solution {
+public:
+    
+int check(char ch){
+    
+    int a;
+    switch(ch){
+        case 'I': a=1; break;
+        case 'V': a=5; break;
+        case 'X': a=10; break;
+        case 'L': a=50; break;
+        case 'C': a=100; break;
+        case 'D': a=500; break;
+        case 'M': a=1000; break;
+    }
+    return a;
+    
 }
-
-int main()
+int romanToInt(string s)
 {
-    string s1, s2;
-    cin >> s1;
-    cin >> s2;
-    cout << isAnagram(s1, s2) << endl;
+    int ans = 0;
+
+    for (int i = 0; i < s.size(); i++)
+    {
+        //
+        if(check(s[i])>=check(s[i+1]))
+            ans = ans + check(s[i]);
+        else
+            ans = ans - check(s[i]);
+    }
+    return ans;
 }
+};
