@@ -1,33 +1,31 @@
-class Solution {
-public:
-    
-int check(char ch){
-    
-    int a;
-    switch(ch){
-        case 'I': a=1; break;
-        case 'V': a=5; break;
-        case 'X': a=10; break;
-        case 'L': a=50; break;
-        case 'C': a=100; break;
-        case 'D': a=500; break;
-        case 'M': a=1000; break;
-    }
-    return a;
-    
-}
-int romanToInt(string s)
-{
-    int ans = 0;
+/*
 
-    for (int i = 0; i < s.size(); i++)
+258. Add Digits
+https://leetcode.com/problems/add-digits/
+
+*/
+#include <bits/stdc++.h>
+using namespace std;
+
+
+int addDigits(int num)
+{
+    int sum = 0;
+    while (num > 0)
     {
-        //
-        if(check(s[i])>=check(s[i+1]))
-            ans = ans + check(s[i]);
-        else
-            ans = ans - check(s[i]);
+        int ld = num % 10;
+        sum = sum + ld;
+        num = num / 10;
     }
-    return ans;
+    if(sum<=9)
+        return sum;
+    return addDigits(sum);
 }
-};
+
+int main()
+{
+    int n;
+    cin >> n;
+    cout << addDigits(n) << endl;
+    cout << 2%2 << endl;
+}
