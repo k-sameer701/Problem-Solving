@@ -3,6 +3,8 @@
 242. Valid Anagram
 https://leetcode.com/problems/valid-anagram/description/
 
+Status - Submitted
+
 */
 
 #include <bits/stdc++.h>

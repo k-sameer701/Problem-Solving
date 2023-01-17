@@ -1,31 +1,31 @@
 /*
 
-258. Add Digits
-https://leetcode.com/problems/add-digits/
+1281. Subtract the Product and Sum of Digits of an Integer
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
 */
 #include <bits/stdc++.h>
 using namespace std;
 
-
-int addDigits(int num)
+int subtractProductAndSum(int n)
 {
     int sum = 0;
-    while (num > 0)
+    int mul = 1;
+
+    while (n > 0)
     {
-        int ld = num % 10;
-        sum = sum + ld;
-        num = num / 10;
+        int last_digit = n % 10;
+        sum = sum + last_digit;
+        mul = mul * last_digit;
+        n = n / 10;
     }
-    if(sum<=9)
-        return sum;
-    return addDigits(sum);
+    int ans = mul - sum;
+    return ans;
 }
 
 int main()
 {
     int n;
     cin >> n;
-    cout << addDigits(n) << endl;
-    cout << 2%2 << endl;
+    cout << subtractProductAndSum(n) << endl;
 }
