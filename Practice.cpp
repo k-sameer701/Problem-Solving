@@ -25,7 +25,16 @@ int subtractProductAndSum(int n)
 
 int main()
 {
+    string coordinates;
+    cin >> coordinates;
+        int ans = 0;
+        for(int i=0; i<2; i++){
+            ans = ans + coordinates[i];
+        }
+        cout << ans;
+
     int n;
     cin >> n;
     cout << subtractProductAndSum(n) << endl;
+
 }

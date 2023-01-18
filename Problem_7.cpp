@@ -1,23 +1,33 @@
 /*
 
-2413. Smallest Even Multiple
-https://leetcode.com/problems/smallest-even-multiple/
+1281. Subtract the Product and Sum of Digits of an Integer
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
-Status - Submitted
+Status - Unsubmitted
 
 */
 #include <bits/stdc++.h>
 using namespace std;
 
-int sum(int num1, int num2)
+int subtractProductAndSum(int n)
 {
-    int ans = num1 + num2;
+    int sum = 0;
+    int mul = 1;
+
+    while (n > 0)
+    {
+        int last_digit = n % 10;
+        sum = sum + last_digit;
+        mul = mul * last_digit;
+        n = n / 10;
+    }
+    int ans = mul - sum;
     return ans;
 }
 
 int main()
 {
-    int n1, n2;
-    cin >> n1 >> n2;
-    cout << sum(n1, n2) << endl;
+    int n;
+    cin >> n;
+    cout << subtractProductAndSum(n) << endl;
 }

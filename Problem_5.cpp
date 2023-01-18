@@ -3,7 +3,7 @@
 258. Add Digits
 https://leetcode.com/problems/add-digits/
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
