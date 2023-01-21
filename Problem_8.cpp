@@ -3,7 +3,7 @@
 2520. Count the Digits That Divide a Number
 https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

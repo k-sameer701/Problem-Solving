@@ -3,7 +3,7 @@
 2413. Smallest Even Multiple
 https://leetcode.com/problems/smallest-even-multiple/
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

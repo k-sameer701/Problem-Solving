@@ -9,17 +9,19 @@ Status - Unsubmitted
 #include <bits/stdc++.h>
 using namespace std;
 
-bool squareIsWhite(string coordinates) {
-        int ans = 0;
-        for(int i=0; i<2; i++){
-            ans = ans + coordinates[i];
-        }
-        //cout << ans;
-        if(ans%2==0)    
-            return false;
-            
-        return true;
+bool squareIsWhite(string coordinates)
+{
+    int ans = 0;
+    for (int i = 0; i < 2; i++)
+    {
+        ans = ans + coordinates[i];
     }
+    // cout << ans;
+    if (ans % 2 == 0)
+        return false;
+
+    return true;
+}
 
 int main()
 {
