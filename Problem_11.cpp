@@ -3,7 +3,7 @@
 2469. Convert the Temperature
 https://leetcode.com/problems/convert-the-temperature/
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
