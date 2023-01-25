@@ -3,7 +3,7 @@
 1512. Number of Good Pairs
 https://leetcode.com/problems/number-of-good-pairs/
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
