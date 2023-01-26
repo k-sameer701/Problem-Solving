@@ -3,7 +3,7 @@
 2427. Number of Common Factors
 https://leetcode.com/problems/number-of-common-factors/
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

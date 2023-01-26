@@ -3,7 +3,7 @@
 Pair Sum in Vector
 https://practice.geeksforgeeks.org/problems/pair-sum-in-vector/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=STL&category[]=set&category[]=priority-queue&sortBy=accuracy
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
