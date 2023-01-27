@@ -4,7 +4,7 @@ Find the Frequency
 
 https://practice.geeksforgeeks.org/problems/find-the-frequency/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=STL&category[]=set&category[]=priority-queue&sortBy=accuracy
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
