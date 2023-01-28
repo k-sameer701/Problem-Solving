@@ -4,7 +4,7 @@ Learn to Comment
 
 https://practice.geeksforgeeks.org/problems/learn-to-comment/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Mathematical&category[]=Strings&category[]=Hash&category[]=CPP&sortBy=accuracy
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

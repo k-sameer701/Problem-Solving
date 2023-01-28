@@ -4,7 +4,7 @@ C++ Functions (Sum of numbers) | Set 1
 
 https://practice.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Mathematical&category[]=Strings&category[]=Hash&category[]=CPP&sortBy=accuracy
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

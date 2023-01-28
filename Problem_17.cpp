@@ -3,7 +3,7 @@
 2119. A Number After a Double Reversal
 https://leetcode.com/problems/a-number-after-a-double-reversal/
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
