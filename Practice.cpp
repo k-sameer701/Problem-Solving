@@ -1,32 +1,19 @@
-
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> // header file includes every Standard library
 using namespace std;
 
 int main()
 {
-    string s;
-    cin >> s;
-    vector<int> v;
-    int c = 0;
-    sort(s.begin(), s.end());
-    for(int i=0; i<s.size(); i++){
-        // for(int j=0; j<s.size(); j++){
-        //     if(s[i] == s[j]){
-        //         c++;
-        //     }
-        // }
-        // if(c==1)    v.push_back(c);
-        // else if(c>1){
-        //     int x = 1;
-        //     v.push_back(x);
-        // }
-        if(s[i] == s[i+1])  c++;
-    }
-    int sum = s.size() - c;
-    // for(int i=0; i<v.size(); i++){
-    //     sum = sum + v[i];
-    // }
-    if(sum%2==0)    cout << "CHAT WITH HER!";
-    else    cout << "IGNORE HIM!";
-
+    // Your code here
+    int a1, a2, a3;
+    cin >> a1 >> a2 >> a3;
+    int t1 = a1 + a2;
+    int t2 = a2 + a3;
+    int t3 = a3 + a1;
+    if( (t1!=0 || t2!=0 || t3!=0))
+        cout << "NO" << endl;
+    else if ((t1 % 2 == 0 || t2 % 2 == 0 || t3 % 2 == 0) )
+        cout << "YES" << endl;
+    else
+        cout << "NO" << endl;
+    
 }
