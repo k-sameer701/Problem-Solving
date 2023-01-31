@@ -1,30 +1,22 @@
 /*
 
+Learning Structs
 
-Status - UnSubmitted
+https://practice.geeksforgeeks.org/problems/learning-structs/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=accuracy
+
+Status - Unsubmitted
 
 */
-
 #include <bits/stdc++.h>
 using namespace std;
 
 
 
-int main()
+struct Node
 {
-    int size;
-    cin >> size;
-    vector<int> v;
-    for(int i=0; i<size; i++){
-        int x;
-        cin >> x;
-        v.emplace_back(x);
-    }
-
-    for(auto it:v){
-        cout << it << " ";
-    }
-    for(int i=0; i<size; i++){
-        cout << v[i] << " ";
-    }
-}
+    //Your code here
+    //Linked list has data and next members
+    int data;
+    struct Node *next;
+    
+};
