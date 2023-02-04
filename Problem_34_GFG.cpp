@@ -4,7 +4,7 @@ Lower case to upper case
 
 https://practice.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1?page=5&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&sortBy=accuracy
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
