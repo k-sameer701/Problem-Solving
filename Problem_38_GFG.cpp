@@ -4,7 +4,7 @@ Searching an element in a sorted array
 
 https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

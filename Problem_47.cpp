@@ -3,7 +3,7 @@
 2221. Find Triangular Sum of an Array
 https://leetcode.com/problems/find-triangular-sum-of-an-array/
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

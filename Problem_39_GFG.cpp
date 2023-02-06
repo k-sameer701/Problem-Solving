@@ -4,7 +4,7 @@ Sum of Series
 
 https://practice.geeksforgeeks.org/problems/sum-of-series2811/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
-Status - Unsubmitted
+Status - Unsubmitted - TLE
 
 */
 #include <bits/stdc++.h>

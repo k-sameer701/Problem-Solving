@@ -3,7 +3,7 @@
 2169. Count Operations to Obtain Zero
 https://leetcode.com/problems/count-operations-to-obtain-zero/
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

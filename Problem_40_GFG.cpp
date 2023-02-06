@@ -4,7 +4,7 @@ Sort The Array
 
 https://practice.geeksforgeeks.org/problems/sort-the-array0055/1?page=3&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

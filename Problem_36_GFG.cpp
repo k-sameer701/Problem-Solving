@@ -5,7 +5,7 @@ Sum of Array Elements
 https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

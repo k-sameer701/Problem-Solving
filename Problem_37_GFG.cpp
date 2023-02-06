@@ -5,7 +5,7 @@ Prime Number
 https://practice.geeksforgeeks.org/problems/prime-number2314/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
 
-Status - Unsubmitted
+Status - Unsubmitted - RUNTIME ERROR
 
 */
 #include <bits/stdc++.h>
