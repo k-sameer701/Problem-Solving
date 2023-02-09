@@ -3,7 +3,7 @@
 1716. Calculate Money in Leetcode Bank
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

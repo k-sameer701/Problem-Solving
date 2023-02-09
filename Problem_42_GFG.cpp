@@ -4,7 +4,7 @@ Searching a number
 
 https://practice.geeksforgeeks.org/problems/searching-a-number0324/1?page=3&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
@@ -19,9 +19,11 @@ int search(int arr[], int n, int k)
         if (arr[i] == k)
         {
             ans = i + 1;
+            return ans;
         }
     }
-    return ans;
+    return -1;
+    
 }
 
 int main()

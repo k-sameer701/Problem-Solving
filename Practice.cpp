@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
-    int a, b, c;
-    cin >> a >> b >>c;
-    int t = (a|)
+    int t;
+    cin >> t;
+    while(t--){
+        
+    }
     
 }

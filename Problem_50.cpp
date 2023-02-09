@@ -4,7 +4,7 @@
 https://leetcode.com/problems/concatenation-of-array/
 
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
