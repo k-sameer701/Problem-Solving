@@ -3,7 +3,7 @@
 1678. Goal Parser Interpretation
 https://leetcode.com/problems/goal-parser-interpretation/description/
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

@@ -4,7 +4,7 @@ Number of occurrence
 
 https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
-Status - Unsubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

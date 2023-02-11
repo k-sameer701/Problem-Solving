@@ -4,7 +4,7 @@ Factorial
 
 https://practice.geeksforgeeks.org/problems/factorial5739/1?page=3&difficulty[]=-2&difficulty[]=-1&sortBy=submissions
 
-Status - Unsubmitted
+Status - submitted
 
 */
 #include <bits/stdc++.h>
