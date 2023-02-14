@@ -2,7 +2,7 @@
 
 1470. Shuffle the Array
 https://leetcode.com/problems/shuffle-the-array/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
