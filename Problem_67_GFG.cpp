@@ -4,7 +4,7 @@ Reverse a String
 
 https://practice.geeksforgeeks.org/problems/java-reverse-a-string0416/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

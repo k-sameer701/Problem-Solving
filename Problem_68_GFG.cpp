@@ -4,7 +4,7 @@ Red OR Green
 
 https://practice.geeksforgeeks.org/problems/red-or-green5711/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
