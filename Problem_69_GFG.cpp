@@ -3,7 +3,7 @@ Count of camel case characters
 
 https://practice.geeksforgeeks.org/problems/find-the-camel3348/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
