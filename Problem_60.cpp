@@ -2,7 +2,7 @@
 
 1773. Count Items Matching a Rule
 https://leetcode.com/problems/count-items-matching-a-rule/
-Status - UnSubmitted 
+Status - UnSubmitted -> WRONG ANSWER
 
 */
 #include <bits/stdc++.h>

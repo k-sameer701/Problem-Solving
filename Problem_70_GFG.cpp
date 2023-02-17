@@ -3,7 +3,8 @@ Pangram Checking
 
 https://practice.geeksforgeeks.org/problems/pangram-checking-1587115620/1?page=2&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=accuracy
 
-Status - UnSubmitted
+Status - UnSubmitted -> WRONG ANSWER
+
 
 */
 #include <bits/stdc++.h>
