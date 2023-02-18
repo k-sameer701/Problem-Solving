@@ -2,7 +2,7 @@
 
 977. Squares of a Sorted Array
 https://leetcode.com/problems/squares-of-a-sorted-array/
-Status - Submitted
+Status - UnSubmitted
 
 */
 #include <bits/stdc++.h>

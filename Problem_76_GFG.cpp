@@ -4,7 +4,7 @@ Replace all 0's with 5
 
 https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Arrays&sortBy=accuracy
 
-Status - UnSubmitted
+Status - UnSubmitted -> Runtime Error
 
 */
 #include <bits/stdc++.h>

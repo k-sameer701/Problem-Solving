@@ -4,7 +4,7 @@ Largest Element in Array
 
 https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Arrays&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

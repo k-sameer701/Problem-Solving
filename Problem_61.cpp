@@ -2,7 +2,7 @@
 
 1816. Truncate Sentence
 https://leetcode.com/problems/truncate-sentence/description/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

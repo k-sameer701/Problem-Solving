@@ -2,7 +2,7 @@
 
 2418. Sort the People
 https://leetcode.com/problems/sort-the-people/description/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

@@ -2,7 +2,7 @@
 
 1833. Maximum Ice Cream Bars
 https://leetcode.com/problems/maximum-ice-cream-bars/
-Status - Submitted
+Status - UnSubmitted
 
 */
 #include <bits/stdc++.h>
