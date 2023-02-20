@@ -4,7 +4,7 @@ Maximum money
 
 https://practice.geeksforgeeks.org/problems/maximum-money2855/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Mathematical&category[]=Sorting&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
