@@ -2,7 +2,7 @@
 
 2176. Count Equal and Divisible Pairs in an Array
 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
