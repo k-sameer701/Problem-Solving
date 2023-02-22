@@ -4,7 +4,7 @@ Swap two numbers
 
 https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Mathematical&category[]=Sorting&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
