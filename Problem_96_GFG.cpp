@@ -4,7 +4,7 @@ Find the element that appears once in sorted array
 
 https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1?page=1&category[]=Searching&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
