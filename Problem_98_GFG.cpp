@@ -4,7 +4,7 @@ Searching an element in a sorted array (Ternary Search)
 
 https://practice.geeksforgeeks.org/problems/3d27d4683c121c1f152ee8f41279255dc4430cf6/1?page=1&category[]=Searching&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

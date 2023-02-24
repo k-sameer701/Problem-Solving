@@ -4,7 +4,7 @@ Find the element that appears once
 
 https://practice.geeksforgeeks.org/problems/element-appearing-once2552/1?page=1&category[]=Searching&sortBy=accuracy
 
-Status - UnSubmitted
+Status - UnSubmitted -> RUNTIME ERROR
 
 */
 #include <bits/stdc++.h>

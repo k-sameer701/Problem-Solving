@@ -4,7 +4,7 @@ Peak element
 
 https://practice.geeksforgeeks.org/problems/peak-element/1?page=2&category[]=Searching&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
