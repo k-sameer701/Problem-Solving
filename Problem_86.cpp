@@ -2,7 +2,7 @@
 
 1748. Sum of Unique Elements
 https://leetcode.com/problems/sum-of-unique-elements/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

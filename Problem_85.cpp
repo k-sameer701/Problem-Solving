@@ -2,7 +2,7 @@
 
 728. Self Dividing Numbers
 https://leetcode.com/problems/self-dividing-numbers/description/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
