@@ -4,7 +4,7 @@ Remainder Evaluation
 
 https://practice.geeksforgeeks.org/problems/remainder-evaluation3755/1?page=1&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
