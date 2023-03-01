@@ -2,7 +2,7 @@
 
 2089. Find Target Indices After Sorting Array
 https://leetcode.com/problems/find-target-indices-after-sorting-array/solutions/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
