@@ -4,7 +4,7 @@ Sum of elements in a matrix
 
 https://practice.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
