@@ -3,7 +3,7 @@ C++ Input / Output
 
 https://practice.geeksforgeeks.org/problems/c-input-output2432/1?page=4&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
