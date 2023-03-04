@@ -2,7 +2,7 @@
 
 442. Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/
-Status - Submitted
+Status - UnSubmitted
 
 */
 #include <bits/stdc++.h>

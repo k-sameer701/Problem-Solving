@@ -2,7 +2,7 @@
 
 169. Majority Element
 https://leetcode.com/problems/majority-element/
-Status - Submitted
+Status - UnSubmitted
 
 */
 #include <bits/stdc++.h>

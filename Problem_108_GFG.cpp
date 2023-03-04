@@ -3,7 +3,7 @@ Ishaan Loves Chocolates
 
 https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1?page=4&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
