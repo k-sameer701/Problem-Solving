@@ -3,7 +3,7 @@ Addition of two square matrices
 
 https://practice.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1?page=4&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

@@ -4,7 +4,7 @@ Minimum Sum of Absolute Differences of Pairs
 
 https://practice.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1?page=1&difficulty[]=0&difficulty[]=1&category[]=Arrays&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

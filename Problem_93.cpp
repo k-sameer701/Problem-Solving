@@ -2,7 +2,7 @@
 
 162. Find Peak Element
 https://leetcode.com/problems/find-peak-element/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
