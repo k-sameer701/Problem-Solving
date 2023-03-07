@@ -2,7 +2,7 @@
 
 35. Search Insert Position
 https://leetcode.com/problems/search-insert-position/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

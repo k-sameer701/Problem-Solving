@@ -3,7 +3,7 @@ The Lazy Caterer's Problem
 
 https://practice.geeksforgeeks.org/problems/the-lazy-caterers-problem2527/1?page=5&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
