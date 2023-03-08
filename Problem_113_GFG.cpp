@@ -3,7 +3,7 @@ Sort a String
 
 https://practice.geeksforgeeks.org/problems/sort-a-string2943/1?page=6&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
