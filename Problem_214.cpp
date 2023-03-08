@@ -2,7 +2,7 @@
 
 74. Search a 2D Matrix
 https://leetcode.com/problems/search-a-2d-matrix/
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

@@ -3,7 +3,7 @@ Fighting the darkness
 
 https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1?page=5&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
