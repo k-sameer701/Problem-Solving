@@ -3,7 +3,7 @@ Anshuman's Favourite Number
 
 https://practice.geeksforgeeks.org/problems/anshumans-favourite-number2029/1?page=6&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
