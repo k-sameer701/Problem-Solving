@@ -4,7 +4,7 @@ Convert a list of characters into a String
 
 https://practice.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/1?page=6&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
