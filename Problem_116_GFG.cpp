@@ -3,7 +3,7 @@ Check if a string is Isogram or not
 
 https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1?page=6&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
