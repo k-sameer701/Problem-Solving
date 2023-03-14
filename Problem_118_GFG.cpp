@@ -3,7 +3,7 @@ Half N by M
 
 https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1?page=7&difficulty[]=-2&difficulty[]=-1&sortBy=accuracy
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>

@@ -3,7 +3,7 @@
 349. Intersection of Two Arrays
 https://leetcode.com/problems/intersection-of-two-arrays/
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 #include <bits/stdc++.h>
